@@ -241,5 +241,5 @@ In addition to supporting Python workload, Azure Machine Learning Service is fle
 
 ## References
 
-[Azure Machine Learning Service](https://azure.microsoft.com/en-us/services/machine-learning-service/)
-[AML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py)
+- [Azure Machine Learning Service](https://azure.microsoft.com/en-us/services/machine-learning-service/)
+- [AML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py)
